@@ -1,0 +1,307 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital city of Japan?",
+    "options": ["Tokyo", "Kyoto", "Osaka", "Nagoya"],
+    "answer": "Tokyo"
+  },
+  {
+    "id": 2,
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": ["Oxygen", "Gold", "Osmium", "Ozone"],
+    "answer": "Oxygen"
+  },
+  {
+    "id": 3,
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Leonardo da Vinci", "Michelangelo", "Picasso", "Van Gogh"],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "id": 4,
+    "question": "What is the smallest prime number?",
+    "options": ["1", "2", "3", "0"],
+    "answer": "2"
+  },
+  {
+    "id": 5,
+    "question": "Which planet has the most moons?",
+    "options": ["Earth", "Jupiter", "Saturn", "Mars"],
+    "answer": "Saturn"
+  },
+  {
+    "id": 6,
+    "question": "Who discovered gravity?",
+    "options": ["Newton", "Einstein", "Galileo", "Tesla"],
+    "answer": "Newton"
+  },
+  {
+    "id": 7,
+    "question": "What is the currency of the United Kingdom?",
+    "options": ["Euro", "Pound", "Dollar", "Franc"],
+    "answer": "Pound"
+  },
+  {
+    "id": 8,
+    "question": "Which continent is the Amazon Rainforest located in?",
+    "options": ["Africa", "Asia", "South America", "Australia"],
+    "answer": "South America"
+  },
+  {
+    "id": 9,
+    "question": "Which organ pumps blood throughout the body?",
+    "options": ["Liver", "Heart", "Kidney", "Lung"],
+    "answer": "Heart"
+  },
+  {
+    "id": 10,
+    "question": "How many legs does a spider have?",
+    "options": ["6", "8", "10", "12"],
+    "answer": "8"
+  },
+  {
+    "id": 11,
+    "question": "Who wrote 'Hamlet'?",
+    "options": ["Shakespeare", "Dickens", "Hemingway", "Austen"],
+    "answer": "Shakespeare"
+  },
+  {
+    "id": 12,
+    "question": "What is the freezing point of water in Celsius?",
+    "options": ["0", "32", "100", "-10"],
+    "answer": "0"
+  },
+  {
+    "id": 13,
+    "question": "Which gas is essential for us to breathe?",
+    "options": ["Carbon Dioxide", "Oxygen", "Hydrogen", "Nitrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "id": 14,
+    "question": "How many continents are there on Earth?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "id": 15,
+    "question": "Which is the longest river in the world?",
+    "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+    "answer": "Nile"
+  },
+  {
+    "id": 16,
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Mercury", "Iron", "Lead", "Zinc"],
+    "answer": "Mercury"
+  },
+  {
+    "id": 17,
+    "question": "Which is the largest mammal?",
+    "options": ["Elephant", "Whale", "Giraffe", "Rhino"],
+    "answer": "Whale"
+  },
+  {
+    "id": 18,
+    "question": "Who invented the light bulb?",
+    "options": ["Edison", "Newton", "Tesla", "Bell"],
+    "answer": "Edison"
+  },
+  {
+    "id": 19,
+    "question": "What does DNA stand for?",
+    "options": [
+      "Deoxyribonucleic Acid",
+      "Dynamic Nucleic Acid",
+      "Digital Network Access",
+      "None of the above"
+    ],
+    "answer": "Deoxyribonucleic Acid"
+  },
+  {
+    "id": 20,
+    "question": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "answer": "Canberra"
+  },
+  {
+    "id": 21,
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "India", "Japan", "Thailand"],
+    "answer": "Japan"
+  },
+  {
+    "id": 22,
+    "question": "What color is chlorophyll?",
+    "options": ["Red", "Green", "Blue", "Yellow"],
+    "answer": "Green"
+  },
+  {
+    "id": 23,
+    "question": "Which number comes after 99?",
+    "options": ["90", "100", "101", "99.9"],
+    "answer": "100"
+  },
+  {
+    "id": 24,
+    "question": "What is H2O commonly known as?",
+    "options": ["Hydrogen Peroxide", "Water", "Salt", "Acid"],
+    "answer": "Water"
+  },
+  {
+    "id": 25,
+    "question": "What is the name of our galaxy?",
+    "options": ["Milky Way", "Andromeda", "Whirlpool", "Orion"],
+    "answer": "Milky Way"
+  },
+  {
+    "id": 26,
+    "question": "Which bird is the symbol of peace?",
+    "options": ["Eagle", "Sparrow", "Dove", "Crow"],
+    "answer": "Dove"
+  },
+  {
+    "id": 27,
+    "question": "Which is the largest land animal?",
+    "options": ["Giraffe", "Elephant", "Hippo", "Rhino"],
+    "answer": "Elephant"
+  },
+  {
+    "id": 28,
+    "question": "Which ocean is the largest?",
+    "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+    "answer": "Pacific"
+  },
+  {
+    "id": 29,
+    "question": "What is 10 multiplied by 10?",
+    "options": ["100", "20", "110", "1000"],
+    "answer": "100"
+  },
+  {
+    "id": 30,
+    "question": "Which animal is known as the King of the Jungle?",
+    "options": ["Tiger", "Elephant", "Lion", "Panther"],
+    "answer": "Lion"
+  },
+  {
+    "id": 31,
+    "question": "What is the main language spoken in Spain?",
+    "options": ["English", "Spanish", "French", "German"],
+    "answer": "Spanish"
+  },
+  {
+    "id": 32,
+    "question": "How many days are there in a leap year?",
+    "options": ["365", "366", "367", "364"],
+    "answer": "366"
+  },
+  {
+    "id": 33,
+    "question": "What is the name of the ship that sank in 1912?",
+    "options": ["Titanic", "Olympic", "Britannic", "Queen Mary"],
+    "answer": "Titanic"
+  },
+  {
+    "id": 34,
+    "question": "Which device do we use to look at stars?",
+    "options": ["Microscope", "Telescope", "Binoculars", "Compass"],
+    "answer": "Telescope"
+  },
+  {
+    "id": 35,
+    "question": "What is the boiling point of water in Celsius?",
+    "options": ["100", "0", "50", "90"],
+    "answer": "100"
+  },
+  {
+    "id": 36,
+    "question": "Which instrument measures temperature?",
+    "options": ["Barometer", "Thermometer", "Caliper", "Speedometer"],
+    "answer": "Thermometer"
+  },
+  {
+    "id": 37,
+    "question": "Who is known as the father of computers?",
+    "options": ["Charles Babbage", "Alan Turing", "Bill Gates", "Steve Jobs"],
+    "answer": "Charles Babbage"
+  },
+  {
+    "id": 38,
+    "question": "What does WWW stand for?",
+    "options": ["World Wide Web", "Wide Web World", "Web World Wide", "None"],
+    "answer": "World Wide Web"
+  },
+  {
+    "id": 39,
+    "question": "What color is the sky on a clear day?",
+    "options": ["Blue", "Red", "Yellow", "Green"],
+    "answer": "Blue"
+  },
+  {
+    "id": 40,
+    "question": "What is 5 squared?",
+    "options": ["25", "10", "15", "50"],
+    "answer": "25"
+  },
+  {
+    "id": 41,
+    "question": "What type of animal is a dolphin?",
+    "options": ["Fish", "Mammal", "Bird", "Reptile"],
+    "answer": "Mammal"
+  },
+  {
+    "id": 42,
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Mercury", "Venus", "Earth", "Mars"],
+    "answer": "Mercury"
+  },
+  {
+    "id": 43,
+    "question": "How many colors are there in a rainbow?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "7"
+  },
+  {
+    "id": 44,
+    "question": "What is the fastest land animal?",
+    "options": ["Cheetah", "Lion", "Horse", "Leopard"],
+    "answer": "Cheetah"
+  },
+  {
+    "id": 45,
+    "question": "What is the opposite of 'hot'?",
+    "options": ["Warm", "Cold", "Cool", "Freezing"],
+    "answer": "Cold"
+  },
+  {
+    "id": 46,
+    "question": "Which shape has three sides?",
+    "options": ["Square", "Circle", "Triangle", "Rectangle"],
+    "answer": "Triangle"
+  },
+  {
+    "id": 47,
+    "question": "Which month has 28 or 29 days?",
+    "options": ["January", "February", "March", "April"],
+    "answer": "February"
+  },
+  {
+    "id": 48,
+    "question": "What is the main source of energy for Earth?",
+    "options": ["Moon", "Stars", "Sun", "Wind"],
+    "answer": "Sun"
+  },
+  {
+    "id": 49,
+    "question": "Which is the hardest natural substance?",
+    "options": ["Gold", "Iron", "Diamond", "Quartz"],
+    "answer": "Diamond"
+  },
+  {
+    "id": 50,
+    "question": "What do bees make?",
+    "options": ["Honey", "Wax", "Nectar", "Milk"],
+    "answer": "Honey"
+  }
+]
